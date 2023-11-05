@@ -1,3 +1,5 @@
+### 🚀 Deploy to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/derdoin/MuudMuzik)
 
 <h2 align="centre">Muud Music Mp3 Oynatıcı 🎵</h2>
 
